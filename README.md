@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Onur</h1>
 <h3 align="center">I'm a student,i interested golang and unity.</h3>
-<img align=“right” alt = “Robot” width = “400” src = “https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/000/456/283/datas/original.gif”>
+<img align=“right” alt = “Robot” width = “400” src = “https://github.com/onurmacit/onurmacit/blob/main/original.gif”>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=onurmacit&label=Profile%20views&color=009dff&style=flat" alt="onurmacit" /> </p>
 
