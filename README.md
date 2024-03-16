@@ -1,4 +1,4 @@
-### Hi there, I'm Onur! 👋   <img src="./images/spidertocat.png" width = "300" height = "300" align = "center"> 
+### Hi there, I'm Onur! 👋   <img src="./images/dunetocat.png" width = "300" height = "300" align = "center"> 
 
 ### I'm a student,i interested golang and unity..   
 
@@ -13,9 +13,12 @@
 
   
 - 😄 Pronouns: Unity Developer
-- 💪🏼 Future Goals: Writing maintainable code.
+- 💪🏼 Future Goals: To continue progress and enhance originality, keep exploring new pathways.
 - 🏀 Fun Facts: Basketball, coffee, hiking.
-- <img src="./images/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width = "1000" height = "500" align = "center">
+ 
+ ---
+
+ <img src="/images/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif" width = "1000" height = "500" align = "center">
 
 ---
 
