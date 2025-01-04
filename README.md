@@ -7,7 +7,7 @@
 
 --- 
 - 🔭 I’m currently working on my own projects
-- 🌱 I’m currently learning **Python, Postresql, Kubernetes**
+- 🌱 I’m currently learning **Python, Postgresql, Kubernetes**
 
 - 📫 How to reach me:    <a href="https://www.linkedin.com/in/onur-macit-b42a19223" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@onurmacit-blue?style=flat&logo=linkedin"></a>
 
