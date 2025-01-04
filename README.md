@@ -1,18 +1,18 @@
 ### Hi there, I'm Onur! 👋   <img src="./images/dunetocat.png" width = "300" height = "300" align = "center"> 
 
-### I'm a student,i interested golang and unity..   
+### I'm a software engineer, and I develop backend solutions. 
 
 
 
 
 --- 
 - 🔭 I’m currently working on my own projects
-- 🌱 I’m currently learning **Go, Postresql, C#, Unity**
+- 🌱 I’m currently learning **Python, Postresql, Kubernetes**
 
 - 📫 How to reach me:    <a href="https://www.linkedin.com/in/onur-macit-b42a19223" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@onurmacit-blue?style=flat&logo=linkedin"></a>
 
   
-- 😄 Pronouns: Unity Developer
+- 😄 Pronouns: Python Developer
 - 💪🏼 Future Goals: To continue progress and enhance originality, keep exploring new pathways.
 - 🏀 Fun Facts: Basketball, coffee, hiking.
  
