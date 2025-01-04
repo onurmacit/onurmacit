@@ -1,6 +1,6 @@
 ### Hi there, I'm Onur! 👋   <img src="./images/dunetocat.png" width = "300" height = "300" align = "center"> 
 
-### I'm a software engineer, and I develop backend solutions. 
+### I'm a software engineer and I develop backend solutions. 
 
 
 
