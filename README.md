@@ -7,14 +7,12 @@
 
 --- 
 - 🔭 I’m currently working on my own projects
-- 🌱 I’m currently learning **Python, Postgresql, Kubernetes**
 
 - 📫 How to reach me:    <a href="https://www.linkedin.com/in/onur-macit-b42a19223" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@onurmacit-blue?style=flat&logo=linkedin"></a>
 
   
-- 😄 Pronouns: Python Developer
 - 💪🏼 Future Goals: To continue progress and enhance originality, keep exploring new pathways.
-- 🏀 Fun Facts: Basketball, coffee, hiking.
+- 🏀 Fun Facts: Basketball, coffee, hiking, discovering new music.
  
  ---
 
@@ -22,9 +20,7 @@
 
 ---
 
-<h4 align="center">Visitor's count :eyes:</h4>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{onurmacit}/count.svg" alt="onurmacit :: Visitor's Count" /></p>
 
 <h3 align="center">Languages and Tools</h3>
 <p align="center">
@@ -105,12 +101,12 @@
 
 
 
-<h4 align="center">Top langs 🔮</h4>
+<h4 align="center">Top langs </h4>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=onurmacit&show_icons=true&locale=en&layout=compact" alt="onurmacit :: Top Langs" /></p>
 
 
-<h4 align="center">Profile stats :musical_keyboard:</h4>
+<h4 align="center">Profile stats </h4>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=onurmacit&show_icons=true&locale=en" alt="AnhellO :: Profile Stats" /></p>
 
