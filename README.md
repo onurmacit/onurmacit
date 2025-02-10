@@ -100,17 +100,6 @@
 
 
 
-
-<h4 align="center">Top langs </h4>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=onurmacit&show_icons=true&locale=en&layout=compact" alt="onurmacit :: Top Langs" /></p>
-
-
-<h4 align="center">Profile stats </h4>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=onurmacit&show_icons=true&locale=en" alt="AnhellO :: Profile Stats" /></p>
-
-  </a>
   
   
 ---
